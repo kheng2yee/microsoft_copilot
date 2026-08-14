@@ -1,0 +1,5 @@
+Analyse the attached Excel file and create a single self-contained interactive HTML dashboard for management review. Include KPI cards, dynamic filters, search functionality, interactive charts, business insights, and a detailed data table. Automatically identify the most relevant metrics (sales, profit, products, regions, customers, channels, status, etc.) and generate appropriate visualisations. Use modern executive dashboard styling, responsive design, and vanilla HTML/CSS/JavaScript only. The output must be a standalone HTML file that runs locally without any external dependencies or backend services.
+
+Provide your feedback on BizChat
+Make the prompt even shorterAdd examples of KPIs to includeExplain how to customize the dashboard style
+AllPeoplePeopleFilesFilesMeetingsMeetingsEmailsEmailsChatsChatsChannelsChannelsSitesSites
